@@ -1,1 +1,11 @@
-Build differents classifiers
+Dataset:
+Conjunto de imágenes de polen para dos especies neozelandesas: Kunzea y Lepto
+
+Clasificadores:
+- Red neuronal sin capa oculta.
+- Red neuronal con capa oculta.
+- Red neuronal convolucional (CNN) versión 1.
+- Red neuronal convolucional (CNN) versión 2.
+- VGG16 versión 1.
+- VGG16 versión 2.
+
